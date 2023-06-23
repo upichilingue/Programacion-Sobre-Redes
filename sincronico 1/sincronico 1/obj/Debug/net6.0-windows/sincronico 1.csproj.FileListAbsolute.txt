@@ -1,0 +1,18 @@
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\bin\Debug\net6.0-windows\sincronico 1.exe
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\bin\Debug\net6.0-windows\sincronico 1.deps.json
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\bin\Debug\net6.0-windows\sincronico 1.runtimeconfig.json
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\bin\Debug\net6.0-windows\sincronico 1.dll
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\bin\Debug\net6.0-windows\sincronico 1.pdb
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.csproj.AssemblyReference.cache
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico_1.Form1.resources
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico_1.Properties.Resources.resources
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.csproj.GenerateResource.cache
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.dll
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\refint\sincronico 1.dll
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.pdb
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\sincronico 1.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\sincronico 1\sincronico 1\obj\Debug\net6.0-windows\ref\sincronico 1.dll
