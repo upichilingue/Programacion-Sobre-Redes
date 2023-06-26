@@ -1,0 +1,18 @@
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\bin\Debug\net6.0-windows\Sincronico 3.exe
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\bin\Debug\net6.0-windows\Sincronico 3.deps.json
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\bin\Debug\net6.0-windows\Sincronico 3.runtimeconfig.json
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\bin\Debug\net6.0-windows\Sincronico 3.dll
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\bin\Debug\net6.0-windows\Sincronico 3.pdb
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico_3.Form1.resources
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico_3.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.dll
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\refint\Sincronico 3.dll
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.pdb
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\Sincronico 3.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\Sincronico 3\Sincronico 3\obj\Debug\net6.0-windows\ref\Sincronico 3.dll

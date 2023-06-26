@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sincronico 3", "Sincronico 3\Sincronico 3.csproj", "{9C76C0D2-39D9-439B-BECE-CA6A339B6869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{48474567-93B3-4155-B89C-2668E4A1273B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C76C0D2-39D9-439B-BECE-CA6A339B6869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C76C0D2-39D9-439B-BECE-CA6A339B6869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C76C0D2-39D9-439B-BECE-CA6A339B6869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C76C0D2-39D9-439B-BECE-CA6A339B6869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48474567-93B3-4155-B89C-2668E4A1273B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48474567-93B3-4155-B89C-2668E4A1273B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48474567-93B3-4155-B89C-2668E4A1273B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48474567-93B3-4155-B89C-2668E4A1273B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A00A21F-DD18-48F3-879D-4042BC9CC22A}
+	EndGlobalSection
+EndGlobal
